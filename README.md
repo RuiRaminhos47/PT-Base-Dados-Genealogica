@@ -1,4 +1,4 @@
-# SA_2
+# Base de Dados Genealógica
 
 A tabela Pessoas é a fonte primária de informação sobre todas as pessoas na base de dados, onde, para cada pessoa única, existe um número automático, o ID, também este único, atribuído a essa pessoa. Todos os outros campos são informações, como o Nome ou a Morada da pessoa em questão.
 
